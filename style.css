@@ -10,15 +10,11 @@ nav {
   line-height: 50px;
 }
 
-li {
-  list-style: none;
-}
-
 .img-width {
   width: 200px !important;
 }
 
-main section:nth-child(1) {
+main section:nth-child(1),main section:nth-child(3) {
   background-color: rgb(26, 188, 156);
   color: white;
 }
