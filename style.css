@@ -5,7 +5,6 @@
 }
 
 nav {
-  background-color: rgb(44, 62, 80);
   color: white;
   line-height: 50px;
 }
@@ -17,4 +16,12 @@ nav {
 main section:nth-child(1),main section:nth-child(3) {
   background-color: rgb(26, 188, 156);
   color: white;
+}
+
+.bg-nav{
+  background-color: rgb(58, 84, 109);
+}
+
+.bg-foot{
+  background-color: rgb(44, 62, 80);
 }
