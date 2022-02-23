@@ -29,3 +29,8 @@ main section:nth-child(1),main section:nth-child(3) {
 .bg-foot{
   background-color: rgb(44, 62, 80);
 }
+
+footer{
+  text-align: center;
+  color: white;
+}
