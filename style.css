@@ -4,13 +4,17 @@
   box-sizing: border-box;
 }
 
-nav {
+nav{
   color: white;
-  line-height: 50px;
 }
 
 .img-width {
-  width: 200px !important;
+  width: 30% !important;
+}
+
+.pf-img-width{
+  width: 100% !important;
+  border-radius: 20px;
 }
 
 main section:nth-child(1),main section:nth-child(3) {
